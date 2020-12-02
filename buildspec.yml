@@ -10,6 +10,6 @@ phases:
     commands:
       - npm run prod
 
-atrifacts:
+artifacts:
   files:
     - './**/*'
